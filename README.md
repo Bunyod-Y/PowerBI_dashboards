@@ -1,6 +1,6 @@
-📊 Power BI Projects Portfolio
+📊 Power BI Projects
 
-Welcome to my Power BI Projects Repository! This collection showcases my hands-on work with real-world datasets using Microsoft Power BI.
+Welcome to my Power BI Projects Repository! This collection showcases my hands on work with real-world datasets using Microsoft Power BI.
 Each project highlights different data visualization techniques, DAX measures, data modeling strategies, and storytelling approaches to derive meaningful business insights.
 
 🧠 Skills Demonstrated
@@ -21,15 +21,6 @@ Map Visualizations
 Real-time Dashboards
 
 Data Storytelling
-
-
-Each folder includes:
-
-.pbix Power BI file
-
-Dataset used
-
-Mini README.md explaining the project's goal, steps, and key visuals
 
 ✅ Featured Projects
 Project Name	Description	Key Visuals Used
